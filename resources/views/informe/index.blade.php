@@ -1,4 +1,4 @@
-<h1>esttoy en la vista de reporte</h1>
+<h1>Reporte de Cartera</h1>
 
 
 @foreach($sucursales as $sucursal)
